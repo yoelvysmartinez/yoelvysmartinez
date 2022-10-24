@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, me llamo Yoelvys Martinez</h1>
 <h3 align="center">Un amante del desarrollado FullStack</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Los fundamentos de AWS**
+- 🌱 Actualmente estoy aprendiendo: **Los fundamentos de AWS**
 
-- 💬Me puedes preguntar sobre **ReactJS, ReactNative, Spring Boot, Symfony**
+- 💬Me puedes preguntar sobre: **ReactJS, ReactNative, Spring Boot, Symfony**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
